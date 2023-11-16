@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Zamilov_T_R_11._11._23_;
+
 namespace Zamilov_T_R_11._11._23_
 {
     internal class Program
